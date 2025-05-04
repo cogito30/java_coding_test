@@ -10,7 +10,7 @@ java를 사용하여 algorithm 문제를 풀이
 
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
-- Lv0(): 0/240문제
+- Lv0(): 1/240문제
 - Lv1(): 0/86문제
 - Lv2(): 0/115문제
 - Lv3(): 0/81문제
