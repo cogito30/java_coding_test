@@ -17,13 +17,6 @@ java를 사용하여 algorithm 문제를 풀이
 - Lv4(): 0/27문제
 - Lv5(): 0/19문제
 
-#### [Softeer](https://softeer.ai/practice)
-- Lv1(): 0/11문제
-- Lv2(): 0/16문제
-- Lv3(): 0/42문제
-- Lv4(): 0/16문제
-- Lv5(): 0/8문제
-
 #### [Solved.ac](https://solved.ac/class)
 - 새싹(): 0/38문제
 - Class1(): 0/36문제
@@ -36,15 +29,6 @@ java를 사용하여 algorithm 문제를 풀이
 - Class8(): 0/48문제
 - Class9(): 0/48문제
 - Class10(): 0/48문제
-
-#### [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-- D1()
-- D2()
-- D3()
-- D4()
-- D5()
-- D6()
-- D7()
 
 #### [LeetCode](https://leetcode.com/problemset/)
 - Easy()
