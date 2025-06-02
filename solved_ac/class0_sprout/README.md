@@ -2,18 +2,18 @@
 
 | 문제번호 |  문제  | 풀이(코드) |    
 |  :---:  | :---: |   :---:  |    
-| 1  | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이]() |    
-| 2  | [오늘 날짜](https://www.acmicpc.net/problem/10699) | [풀이]() |    
-| 3  | [등록](https://www.acmicpc.net/problem/7287) | [풀이]() |    
-| 4  | [고양이](https://www.acmicpc.net/problem/10171) | [풀이]() |    
-| 5  | [개](https://www.acmicpc.net/problem/10172) | [풀이]() |    
-| 6  | [새싹](https://www.acmicpc.net/problem/25083) | [풀이]() |    
-| 7  | [A+B](https://www.acmicpc.net/problem/1000) | [풀이]() |    
-| 8  | [A-B](https://www.acmicpc.net/problem/1001) | [풀이]() |    
-| 9  | [AxB](https://www.acmicpc.net/problem/10998) | [풀이]() |    
-| 10  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이]() |    
-| 11  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이]() |    
-| 12  | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [풀이]() |    
+| 1  | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./2557.java) |    
+| 2  | [오늘 날짜](https://www.acmicpc.net/problem/10699) | [풀이](./10699.java) |    
+| 3  | [등록](https://www.acmicpc.net/problem/7287) | [풀이](./7287.java) |    
+| 4  | [고양이](https://www.acmicpc.net/problem/10171) | [풀이](./10171.java) |    
+| 5  | [개](https://www.acmicpc.net/problem/10172) | [풀이](./10172.java) |    
+| 6  | [새싹](https://www.acmicpc.net/problem/25083) | [풀이](./25083.java) |    
+| 7  | [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./1000.java) |    
+| 8  | [A-B](https://www.acmicpc.net/problem/1001) | [풀이](./1001.java) |    
+| 9  | [AxB](https://www.acmicpc.net/problem/10998) | [풀이](./10998.java) |    
+| 10  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이](./10869.java) |    
+| 11  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이](./1008.java) |    
+| 12  | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [풀이](./11382.java) |    
 | 13  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이]() |    
 | 14  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이]() |    
 | 15  | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [풀이]() |    
