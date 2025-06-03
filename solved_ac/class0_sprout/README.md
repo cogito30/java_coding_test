@@ -19,13 +19,13 @@
 | 15  | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [풀이](./14681.java) |    
 | 16  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./2753.java) |    
 | 17  | [사파리월드](https://www.acmicpc.net/problem/2420) | [풀이](./2420.java) |    
-| 18  | [N 찍기](https://www.acmicpc.net/problem/2741) | [풀이]() |    
-| 19  | [팩토리얼](https://www.acmicpc.net/problem/10872) | [풀이]() |    
-| 20  | [A+B-3](https://www.acmicpc.net/problem/10950) | [풀이]() |    
-| 21  | [A+B-5](https://www.acmicpc.net/problem/10952) | [풀이]() |    
-| 22  | [구구단](https://www.acmicpc.net/problem/2739) | [풀이]() |    
-| 23  | [별찍기-1](https://www.acmicpc.net/problem/2438) | [풀이]() |    
-| 24  | [A+B-4](https://www.acmicpc.net/problem/10951) | [풀이]() |    
+| 18  | [N 찍기](https://www.acmicpc.net/problem/2741) | [풀이](./2741.java) |    
+| 19  | [팩토리얼](https://www.acmicpc.net/problem/10872) | [풀이](./10872.java) |    
+| 20  | [A+B-3](https://www.acmicpc.net/problem/10950) | [풀이](./10950.java) |    
+| 21  | [A+B-5](https://www.acmicpc.net/problem/10952) | [풀이](./10952.java) |    
+| 22  | [구구단](https://www.acmicpc.net/problem/2739) | [풀이](./2739.java) |    
+| 23  | [별찍기-1](https://www.acmicpc.net/problem/2438) | [풀이](./2438.java) |    
+| 24  | **[A+B-4](https://www.acmicpc.net/problem/10951) | [풀이](./10951.java) |    
 | 25  | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이]() |    
 | 26  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이]() |    
 | 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이]() |    
