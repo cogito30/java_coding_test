@@ -14,11 +14,11 @@
 | 10  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이](./10869.java) |    
 | 11  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이](./1008.java) |    
 | 12  | [꼬마 정민](https://www.acmicpc.net/problem/11382) | [풀이](./11382.java) |    
-| 13  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이]() |    
-| 14  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이]() |    
-| 15  | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [풀이]() |    
-| 16  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이]() |    
-| 17  | [사파리월드](https://www.acmicpc.net/problem/2420) | [풀이]() |    
+| 13  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이](./1330.java) |    
+| 14  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이](./9498.java) |    
+| 15  | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [풀이](./14681.java) |    
+| 16  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./2753.java) |    
+| 17  | [사파리월드](https://www.acmicpc.net/problem/2420) | [풀이](./2420.java) |    
 | 18  | [N 찍기](https://www.acmicpc.net/problem/2741) | [풀이]() |    
 | 19  | [팩토리얼](https://www.acmicpc.net/problem/10872) | [풀이]() |    
 | 20  | [A+B-3](https://www.acmicpc.net/problem/10950) | [풀이]() |    
