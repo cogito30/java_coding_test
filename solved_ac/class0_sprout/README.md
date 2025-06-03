@@ -26,11 +26,11 @@
 | 22  | [구구단](https://www.acmicpc.net/problem/2739) | [풀이](./2739.java) |    
 | 23  | [별찍기-1](https://www.acmicpc.net/problem/2438) | [풀이](./2438.java) |    
 | 24  | **[A+B-4](https://www.acmicpc.net/problem/10951) | [풀이](./10951.java) |    
-| 25  | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이]() |    
-| 26  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이]() |    
-| 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이]() |    
-| 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이]() |    
-| 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이]() |    
+| 25  | **[빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이](./15552.java) |    
+| 26  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이](./10871.java) |    
+| 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이](./10807.java) |    
+| 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이](./5597.java) |    
+| 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이](./2738.java) |    
 | 30  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이]() |    
 | 31  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [풀이]() |    
 | 32  | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | [풀이]() |    
