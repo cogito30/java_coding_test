@@ -27,11 +27,11 @@
 | 23  | [별 찍기-2](https://www.acmicpc.net/problem/2439) | [풀이](./2439.java) |    
 | 24  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이](./11720.java) |    
 | 25  | **[A + B - C](https://www.acmicpc.net/problem/31403) | [풀이](./31403.java) |    
-| 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이]() |    
-| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이]() |    
-| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이]() |    
-| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이]() |    
-| 30  | [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이]() |    
+| 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이](./2562.java) |    
+| 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이](./2884.java) |    
+| 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이](./10250.java) |    
+| 29  | [최소, 최대](https://www.acmicpc.net/problem/10818) | [풀이](./10818.java) |    
+| 30  | *[단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./1152.java) |    
 | 31  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [풀이]() |    
 | 32  | [문자열 반복](https://www.acmicpc.net/problem/2675) | [풀이]() |    
 | 33  | [음계](https://www.acmicpc.net/problem/2920) | [풀이]() |    
