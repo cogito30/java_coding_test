@@ -2,31 +2,31 @@
 
 | 문제번호 |  문제  | 풀이(코드) |    
 |  :---:  | :---: |   :---:  |    
-| 1  | [A+B](https://www.acmicpc.net/problem/1000) | [풀이]() |    
-| 2  | [A-B](https://www.acmicpc.net/problem/1001) | [풀이]() |    
-| 3  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이]() |    
-| 4  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이]() |    
-| 5  | [별 찍기-1](https://www.acmicpc.net/problem/2438) | [풀이]() |    
-| 6  | [검증수](https://www.acmicpc.net/problem/2475) | [풀이]() |    
-| 7  | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이]() |    
-| 8  | [구구단](https://www.acmicpc.net/problem/2739) | [풀이]() |    
-| 9  | [N 찍기](https://www.acmicpc.net/problem/2741) | [풀이]() |    
-| 10  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이]() |    
-| 11  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이]() |    
-| 12  | [고양이](https://www.acmicpc.net/problem/10171) | [풀이]() |    
-| 13  | [개](https://www.acmicpc.net/problem/10172) | [풀이]() |    
-| 14  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이]() |    
-| 15  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이]() |    
-| 16  | [A+B-3](https://www.acmicpc.net/problem/10950) | [풀이]() |    
-| 17  | [A+B-4](https://www.acmicpc.net/problem/10951) | [풀이]() |    
-| 18  | [A+B-5](https://www.acmicpc.net/problem/10952) | [풀이]() |    
-| 19  | [AxB](https://www.acmicpc.net/problem/10998) | [풀이]() |    
-| 20  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이]() |    
-| 21  | [새싹](https://www.acmicpc.net/problem/25083) | [풀이]() |    
-| 22  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이]() |    
-| 23  | [별 찍기-2](https://www.acmicpc.net/problem/2439) | [풀이]() |    
-| 24  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이]() |    
-| 25  | [A + B - C](https://www.acmicpc.net/problem/31403) | [풀이]() |    
+| 1  | [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./1000.java) |    
+| 2  | [A-B](https://www.acmicpc.net/problem/1001) | [풀이](./1001.java) |    
+| 3  | [A/B](https://www.acmicpc.net/problem/1008) | [풀이](./1008.java) |    
+| 4  | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [풀이](./1330.java) |    
+| 5  | [별 찍기-1](https://www.acmicpc.net/problem/2438) | [풀이](./2438.java) |    
+| 6  | [검증수](https://www.acmicpc.net/problem/2475) | [풀이](./2475.java) |    
+| 7  | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./2557.java) |    
+| 8  | [구구단](https://www.acmicpc.net/problem/2739) | [풀이](./2739.java) |    
+| 9  | [N 찍기](https://www.acmicpc.net/problem/2741) | [풀이](./2741.java) |    
+| 10  | [윤년](https://www.acmicpc.net/problem/2753) | [풀이](./2753.java) |    
+| 11  | [시험 성적](https://www.acmicpc.net/problem/9498) | [풀이](./9498.java) |    
+| 12  | [고양이](https://www.acmicpc.net/problem/10171) | [풀이](./10171.java) |    
+| 13  | [개](https://www.acmicpc.net/problem/10172) | [풀이](./10172.java) |    
+| 14  | [사칙연산](https://www.acmicpc.net/problem/10869) | [풀이](./10869.java) |    
+| 15  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이](./10871.java) |    
+| 16  | [A+B-3](https://www.acmicpc.net/problem/10950) | [풀이](./10950.java) |    
+| 17  | [A+B-4](https://www.acmicpc.net/problem/10951) | [풀이](./10951.java) |    
+| 18  | [A+B-5](https://www.acmicpc.net/problem/10952) | [풀이](./10952.java) |    
+| 19  | [AxB](https://www.acmicpc.net/problem/10998) | [풀이](./10998.java) |    
+| 20  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이](./11654.java) |    
+| 21  | [새싹](https://www.acmicpc.net/problem/25083) | [풀이](./25083.java) |    
+| 22  | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [풀이](./27866.java) |    
+| 23  | [별 찍기-2](https://www.acmicpc.net/problem/2439) | [풀이](./2439.java) |    
+| 24  | [숫자의 합](https://www.acmicpc.net/problem/11720) | [풀이](./11720.java) |    
+| 25  | **[A + B - C](https://www.acmicpc.net/problem/31403) | [풀이](./31403.java) |    
 | 26  | [최댓값](https://www.acmicpc.net/problem/2562) | [풀이]() |    
 | 27  | [알람 시계](https://www.acmicpc.net/problem/2884) | [풀이]() |    
 | 28  | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [풀이]() |    
